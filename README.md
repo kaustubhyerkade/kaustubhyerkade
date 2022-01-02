@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="hhttps://pixabay.com/illustrations/geometric-design-computer-1732847/" alt="cover" />
+<img width="100%" height = "250px" src="hhttps://cdn.pixabay.com/illustrations/geometric-design-computer-1732847/" alt="cover" />
 </div>
 
 <h1>
