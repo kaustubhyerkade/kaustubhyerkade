@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-<h1> Hi , I am Kaustubh. I like instant maggie noodles in a cup, and I really like the Dosa Iruka Sensei got me at the Ichiraku Dosa center, but I hate the three minutes you have to wait after you pour the water in it. My hobby is eating different kinds of idli and comparing them, and my future dream is to be the greatest dev ! Then the whole village will stop disrespecting me and start treating me like I'm somebody. Somebody important!
+<h1>
 
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
  
@@ -11,7 +11,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
 
 </p>
-<div size='20px'> Hi! My name is . Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>  Hi , I am Kaustubh. I like instant maggie noodles in a cup, and I really like the Dosa Iruka Sensei got me at the Ichiraku Dosa center, but I hate the three minutes you have to wait after you pour the water in it. My hobby is eating different kinds of idli and comparing them, and my future dream is to be the greatest dev ! Then the whole village will stop disrespecting me and start treating me like I'm somebody. Somebody important! :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
