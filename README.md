@@ -2,21 +2,10 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p>
- __                                       __                __        __                                            __                       __           
-|  \                                     |  \              |  \      |  \                                          |  \                     |  \          
-| $$   __  ______   __    __   _______  _| $$_    __    __ | $$____  | $$____         __    __   ______    ______  | $$   __  ______    ____| $$  ______  
-| $$  /  \|      \ |  \  |  \ /       \|   $$ \  |  \  |  \| $$    \ | $$    \       |  \  |  \ /      \  /      \ | $$  /  \|      \  /      $$ /      \ 
-| $$_/  $$ \$$$$$$\| $$  | $$|  $$$$$$$ \$$$$$$  | $$  | $$| $$$$$$$\| $$$$$$$\      | $$  | $$|  $$$$$$\|  $$$$$$\| $$_/  $$ \$$$$$$\|  $$$$$$$|  $$$$$$\
-| $$   $$ /      $$| $$  | $$ \$$    \   | $$ __ | $$  | $$| $$  | $$| $$  | $$      | $$  | $$| $$    $$| $$   \$$| $$   $$ /      $$| $$  | $$| $$    $$
-| $$$$$$\|  $$$$$$$| $$__/ $$ _\$$$$$$\  | $$|  \| $$__/ $$| $$__/ $$| $$  | $$      | $$__/ $$| $$$$$$$$| $$      | $$$$$$\|  $$$$$$$| $$__| $$| $$$$$$$$
-| $$  \$$\\$$    $$ \$$    $$|       $$   \$$  $$ \$$    $$| $$    $$| $$  | $$       \$$    $$ \$$     \| $$      | $$  \$$\\$$    $$ \$$    $$ \$$     \
- \$$   \$$ \$$$$$$$  \$$$$$$  \$$$$$$$     \$$$$   \$$$$$$  \$$$$$$$  \$$   \$$       _\$$$$$$$  \$$$$$$$ \$$       \$$   \$$ \$$$$$$$  \$$$$$$$  \$$$$$$$
-                                                                                     |  \__| $$                                                           
-                                                                                      \$$    $$                                                           
-                                                                                       \$$$$$$                                                            
-</p>  
+<h1> Hi , I am Kaustubh. I like instant maggie noodles in a cup, and I really like the Dosa Iruka Sensei got me at the Ichiraku Dosa center, but I hate the three minutes you have to wait after you pour the water in it. My hobby is eating different kinds of idli and comparing them, and my future dream is to be the greatest dev ! Then the whole village will stop disrespecting me and start treating me like I'm somebody. Somebody important!
+
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+ 
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
