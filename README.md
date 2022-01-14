@@ -1,61 +1,94 @@
-<div align="center">
-<img width="100%" height = "250px" src="hhttps://cdn.pixabay.com/illustrations/geometric-design-computer-1732847/" alt="cover" />
-</div>
+# Hello Github Users around the World! <img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 
-<h1>
+![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
 
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
- 
-<p align='center'>
+<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
+[![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
-</p>
-<div size='20px'>  Hi , I am Kaustubh. I like instant maggie noodles in a cup, and I really like the Dosa Iruka Sensei got me at the Ichiraku Dosa center, but I hate the three minutes you have to wait after you pour the water in it. My hobby is eating different kinds of idli and comparing them, and my future dream is to be the greatest dev. Somebody important! :smile: 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+<h3> Here's some fun facts about me: </h3>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+- **I'm a ***HUGE Harry Potter fan*** ⚡🧙🏻‍♂️**
+-  **I'm a hopeful web and app developer 👩🏻‍💻**
+-  **I am a true science lover 🔬**
+-  **Finally, I ***LOVE*** playing soccer/football ⚽!**
+-  **I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/) 🙂**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### Here's my github README stats:
 
-
-- 🔭 I’m currently working on My Blog, Github Project
-
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+### Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
-<br>
+### Some of my public repositories (not forks):
+
+- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
+- **[My BMI Calculator Repo - AvidCoder101/BMICalculator ](https://github.com/AvidCoder101/BMICalculator)**
+- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
+- **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
+- **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
+- **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
+
+#### Most of these repos are also able to contribute to on the [CodingContributorsLair](https://github.com/CodingContributorsLair/) organization. Check them out!
+### Some awesome repos that people and organizations have made:
+
+- **[Markdown-dungeon - MakeContributions](https://github.com/MakeContributions/markdown-dungeon)**
+- **[Resources - zero-to-mastery](https://github.com/zero-to-mastery/resources)**
+- **[Github stats - anuraghazra](https://github.com/anuraghazra/github-readme-stats)**
+- **[Jobream - List-of-Learning-Resources](https://github.com/Jobream/List-of-Learning-Resources)**
+- **[EddieHubCommunity - awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)**
+
+### Organizations that I have contributed to :
+
+[<img src= "https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height= "50" width= "50">](https://github.com/EddieHubCommunity)
+[<img src= "https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height= "50" width= "50">](https://github.com/zero-to-mastery)
+[<img src= "https://avatars.githubusercontent.com/u/87652881?s=200&v=4" height= "50" width= "50">](https://github.com/CodingContributorsLair)
+[<img src= "https://avatars.githubusercontent.com/u/67384272?s=88&v=4" height= "50" width= "50">](https://github.com/MakeContributions)
+[<img src= "https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height= "50" width= "50">](https://github.com/firstcontributions)
+[<img src= "https://avatars.githubusercontent.com/u/24355438?s=88&v=4" height= "50" width= "50">](https://github.com/fnplus)
+[<img src= "https://avatars.githubusercontent.com/u/68013560?s=88&v=4" height= "50" width= "50">](https://github.com/jobream)
+[<img src= "https://avatars.githubusercontent.com/u/88003901?s=60&v=4" height= "50" width= "50">](https://github.com/App-Choreography)
+[<img src= "https://avatars.githubusercontent.com/u/78741698?s=60&v=4" height= "50" width= "50">](https://github.com/chryz-hub)
+[<img src= "https://avatars.githubusercontent.com/u/55499010?s=60&v=4" height= "50" width= "50">](https://github.com/devcreatives)
+[<img src= "https://avatars.githubusercontent.com/u/69833530?s=60&v=4" height= "50" width= "50">](https://github.com/uncodedtech)
+[<img src= "https://avatars.githubusercontent.com/u/70080194?s=64&v=4" height= "50" width= "50">](https://github.com/golang-friends)
+[<img src= "https://avatars.githubusercontent.com/u/72601117?s=200&v=4" height= "50" width= "50">](https://github.com/nit-ap)
+[<img src= "https://avatars.githubusercontent.com/u/72855943?s=88&v=4" height= "50" width= "50">](https://github.com/CodeAvailable)
+[<img src= "https://avatars.githubusercontent.com/u/75231084?s=88&v=4" height= "50" width= "50">](https://github.com/RoquesBeach)
+[<img src= "https://avatars.githubusercontent.com/u/79212466?s=64&v=4" height= "50" width= "50">](https://github.com/PUGroups)
+[<img src= "https://avatars.githubusercontent.com/u/81645243?s=64&v=4" height= "50" width= "50">](https://github.com/nhcommunity)
+
+### Here is the languages that I am currently working on:
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+### Here are my Codewars stats:
 
-![Metrics](https://metrics.lecoq.io/?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+### Thank you for visiting my profile 🤓 
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+### Feel free to fork and 🌟 this repo!!
 
 
-<br>
-<footer>no footer</footer>
+
+
+
+
+
+
+
+
