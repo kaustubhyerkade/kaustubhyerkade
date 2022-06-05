@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=.)
 
 </p>
-<div size='20px'>  Hi , I am Kaustubh. I like instant maggie noodles in a cup, and I really like the Dosa Iruka Sensei got me at the Ichiraku Dosa center, but I hate the three minutes you have to wait after you pour the water in it. My hobby is eating different kinds of idli and comparing them, and my future dream is to be the greatest dev. Somebody important! :smile: 
+<div size='20px'>  Hi , I am Kaustubh. 
 </div>
 
 https://kaustubhyerkade.wordpress.com
