@@ -6,10 +6,10 @@
 ### <div align="center">I'm Kaustubh , Dev Ops Engineer & System Analyst </div>  
   
 
-- 🔭 I’m currently  working on scripting  
+- 🔭 working and exploring various scripting & tools   
   
 
-- 🌱 I’m currently learning Cloud and Kubernetes  
+- 🌱currently learning Cloud and Kubernetes  
   
 
 - ❓  Get Familiar with the sorroundings   
