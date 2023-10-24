@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kaustubh , Dev Ops Engineer & System Analyst </div>  
+### <div align="center">I'm Kaustubh , Dev Ops Engineer </div>  
   
 
 - 🔭 working and exploring various scripting & tools   
