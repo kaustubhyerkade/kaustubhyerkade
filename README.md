@@ -111,10 +111,10 @@ Along with, I love to write tech blogs, I have mentioned some of my tech blogs b
 <a href="https://hashnode.com/@kaustubhyerkade" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@kaustubhyerkade" target="_blank">
+<a href="https://medium.com/@kaustubhyerkade" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCYjMPjfkn8DVFggM9kqqFzA" target="_blank">
+<a href="https:///www.youtube.com/channel/UCYjMPjfkn8DVFggM9kqqFzA" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
