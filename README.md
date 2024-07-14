@@ -4,19 +4,12 @@
   
 
 ### <div align="center">I'm Kaustubh , Dev Ops Engineer </div>  
-  
+Hi 👋 , I am kaustubh 
+I'm a DevOps engineer with a passion for  automation, agile tech , continues improvement & scalability. 
+I specialize in building and maintaining robust CI/CD pipelines, managing cloud infrastructure, middleware and ensuring seamless deployment processes.
 
-- 🔭 working and exploring various scripting & tools   
-  
+Along with, I love to write tech blogs, I have mentioned some of my tech blogs below-  
 
-- 🌱currently learning Cloud and Kubernetes  
-  
-
-- ❓  Get Familiar with the sorroundings   
-  
-
-- ⚡ Gain Practical Experience  
-  
 
 <br/>  
 
