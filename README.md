@@ -40,7 +40,7 @@ Along with, I love to write tech blogs, I have mentioned some of my tech blogs b
 
 <br/>  
 
-## My Skill Set  
+## My Tech stack
 <table><tr><td valign="top" width="33%">
 
 
