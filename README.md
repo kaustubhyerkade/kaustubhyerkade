@@ -112,10 +112,6 @@ Along with, I love to write tech blogs, I have mentioned some of my tech blogs b
 
 
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kaustubhyerkade&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
