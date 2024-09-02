@@ -117,10 +117,14 @@ Along with, I love to write tech blogs, I have mentioned some of my tech blogs b
 
 ## Recent Blog Posts  
 
-<div align="center">
-<a href="https://dev.to/kaustubhyerkade" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+Most popular articles - 
+
+https://medium.com/@kaustubhyerkade/getting-started-with-computer-science-d3a2418ff39c
+
+https://dev.to/kaustubhyerkade/rhel-a-better-cheat-sheet-2km1
+
+https://dev.to/kaustubhyerkade/hypervisor-p9i
+
 
 <br/>  
 
